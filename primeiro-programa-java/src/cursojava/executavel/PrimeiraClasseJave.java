@@ -7,6 +7,6 @@ public class PrimeiraClasseJave {
 	public static void main(String[] args) {
 		
 		/*escreve o texto no console*/
-		System.out.println("Meu Primeiro Programa em Java1");
+		System.out.println("Meu Primeiro Programa em Java12");
 	}
 }
